@@ -1,0 +1,21 @@
+{
+    "name": "arx/mail",
+    "description": "Php Mailer wrapper",
+    "authors": [
+        {
+            "name": "Daniel Sum",
+            "email": "daniel@cherrypulp.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "arx/utils" : "dev-master",
+        "illuminate/mail": "4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Arx\\Mail": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
