@@ -1,6 +1,8 @@
 {
     "name": "arx/mail",
     "description": "Php Mailer wrapper",
+    "homepage": "http://www.arx.io",
+    "license": "MIT",
     "authors": [
         {
             "name": "Daniel Sum",
