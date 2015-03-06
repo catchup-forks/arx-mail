@@ -1,6 +1,6 @@
 {
     "name": "arx/mail",
-    "description": "Php Mailer wrapper",
+    "description": "Simple Php Mail class wrapper",
     "homepage": "http://www.arx.io",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "arx/utils" : "dev-master",
+        "arx/utils" : "*",
         "illuminate/mail": "4.*"
     },
     "autoload": {
